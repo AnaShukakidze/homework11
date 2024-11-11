@@ -1,0 +1,19 @@
+:root{
+    --fontFam: Inter;
+    --weightBold: 700;
+    --weightRegular: 400;
+    --heading1-size: 24px;
+    --heading1-height: 37px;
+    --parahraph1-size: 18px;
+    --paragraph1-height: 30px;
+    --parahraph2-size: 16px;
+    --paragraph2-height: 27px;
+    --parahraph3-size: 14px;
+    --paragraph3-height: 25px;
+
+    --color-black: #000000;
+    --color-darkGreen: #1C5550;
+    --color-green: #91B599;
+    --color-greenYellow: #C3B97F;
+    --color-offWhite: #DFD9D9;
+}
