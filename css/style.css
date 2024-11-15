@@ -73,9 +73,7 @@ header {
 
 /* aside */
 aside {
-    grid-area: aisde;
-    grid-row: 2/4;
-    grid-column: 1/2;
+    grid-area: aside;
     padding: 38px 40px;
     background: #00000033;
     box-shadow:
